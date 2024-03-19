@@ -1,0 +1,20 @@
+# Ignore target directory
+/target/
+
+# Ignore Cargo.lock file
+Cargo.lock
+
+# Ignore IDE files
+.idea/
+
+# Ignore compiled binaries
+**/*.exe
+**/*.pdb
+**/*.d
+**/*.rmeta
+
+# Ignore debug directory
+debug/
+
+# Ignore incremental directory
+incremental/
